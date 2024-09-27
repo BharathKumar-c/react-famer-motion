@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  padding: 2rem;
+}
+.box-container {
+  margin-bottom: 10rem;
+}
+.box {
+  height: 15rem;
+  width: 15rem;
+  background-color: aquamarine;
+}
